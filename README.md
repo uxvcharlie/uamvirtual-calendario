@@ -8,6 +8,8 @@ Todo lo que publican tus profesores en [UAM Virtual](https://uamvirtual.uam.edu.
 
 Sin instalar apps, sin servidores y gratis. Se instala en unos 5 minutos desde el navegador y sigue funcionando con la compu apagada.
 
+### Ejemplo
+
 ```text
 📝 AGBD: Tarea final — vence dom 8 nov, 23:00
 📎 Redes II: Sesión 20 - VLAN
