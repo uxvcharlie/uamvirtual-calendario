@@ -1,0 +1,20 @@
+{
+  "name": "uamvirtual-calendario",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Pasa lo que se publica en UAM Virtual (Moodle) a Google Calendar.",
+  "license": "MIT",
+  "repository": "github:uxvcharlie/uamvirtual-calendario",
+  "scripts": {
+    "test": "node --test \"test/**/*.test.mjs\"",
+    "token": "node scripts/obtener-token.mjs",
+    "explorar": "node scripts/explorar.mjs",
+    "crear": "node scripts/crear-proyecto.mjs",
+    "empaquetar": "node scripts/empaquetar.mjs",
+    "subir": "clasp push --force"
+  },
+  "devDependencies": {
+    "@google/clasp": "3.4.1"
+  }
+}
